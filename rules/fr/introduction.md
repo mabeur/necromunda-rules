@@ -1,3 +1,4 @@
+# INTRODUCTION
 
 Necromunda est un jeu qui met en scène les combats féroces opposant des gangs rivaux dans le dangereux Sous-Monde des Ruches de Necromunda.
 
